@@ -30,16 +30,31 @@
 
 
 
+//  !! : this will not count toward your grade bc it was not pushed by 3pm
+let user1 =prompt("Enter age 1");
 
-// let user =prompt("Enter age 1");
+ let user2 =prompt("Enter age 2" );
 
-//  user =prompt("Enter age 2" );
+let  user3 =prompt("Enter age 3" );
+ 
+ let user4 =prompt ("Enter age 4" );
 
-//  user =prompt
+ let userAges =["user1,user2,user3,user4"];
+
+ console.log (userAges);
+
+ userAges.splice(2, 1);
+
+ userAges[1]= 100;
+
+ console.log(userAges)
 
 
 
-// l
+
+
+
+
 
 
 
