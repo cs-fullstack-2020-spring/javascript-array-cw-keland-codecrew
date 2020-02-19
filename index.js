@@ -21,17 +21,25 @@
 
 // console.log(name)
 
-### Exercise 2
-- Write a program that asks the user to enter 4 ages. Save each of the ages into an array.
-- Console.log the list of names
-- Delete the third age.
-- Change the second element (NOT index 2, the second element) to a different age.
-- Console.log the list of names
+// ### Exercise 2
+// - Write a program that asks the user to enter 4 ages. Save each of the ages into an array.
+// - Console.log the list of names
+// - Delete the third age.
+// - Change the second element (NOT index 2, the second element) to a different age.
+// - Console.log the list of names
 
 
 
 
-let user =prompt("Enter 4 Ages");
+let user =prompt("Enter age 1");
+
+ user =prompt("Enter age 2" );
+
+ user =prompt
+
+
+
+l
 
 
 
