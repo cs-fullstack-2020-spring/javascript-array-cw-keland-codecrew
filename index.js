@@ -31,15 +31,15 @@
 
 
 
-let user =prompt("Enter age 1");
+// let user =prompt("Enter age 1");
 
- user =prompt("Enter age 2" );
+//  user =prompt("Enter age 2" );
 
- user =prompt
+//  user =prompt
 
 
 
-l
+// l
 
 
 
